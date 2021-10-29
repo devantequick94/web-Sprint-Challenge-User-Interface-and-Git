@@ -98,4 +98,3 @@ Note: Please make sure you are using flexbox to layout your website. Floats, inl
 ## Submission Instructions 
  
 Please submit the url to your pull request in Canvas
-test
