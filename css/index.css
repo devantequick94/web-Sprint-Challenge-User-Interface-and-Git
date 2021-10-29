@@ -260,44 +260,13 @@ footer nav a {
     text-decoration: none;
 }
 
-.ae-text{
-    display: flex;
-
-}
-
 .ae-content{
+
     display: flex;
-    flex-direction: column;
+    justify-content: center;
 }
 
-.how-we-work-text{
-    flex: 33.33%;
-    padding: 5px;
-
-}
-
-.how-we-work{
+.office{
     display: flex;
-
-}
-
-.places-we-work-text{
-    flex: 33.33%;
-    padding: 5px;
-}
-
-.places-we-work{
-    display: flex;
-
-    
-}
-
-.collab{
-    display: flex;
-    
-}
-
-.collab-text{
-    flex: 33.33%;
-    padding: 5px;
+    justify-content: center;
 }
